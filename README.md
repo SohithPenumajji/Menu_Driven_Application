@@ -43,5 +43,5 @@ The **Simple Number List Manager** is a C++ console application that allows user
 - Additional helper functions like `calculate_mean`, `get_smallest`, `get_largest`, and `find` are used to perform specific tasks.
 - The main function uses a `do-while` loop to repeatedly display the menu and execute the selected option until the user chooses to quit.
 
-#Happy Coding
+##Happy Coding
 
